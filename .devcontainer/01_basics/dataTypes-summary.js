@@ -45,8 +45,24 @@ console.log(typeof scoreValue);    //>number
 console.log(typeof myFunction);    //>function object
 console.log(typeof anotherId);     //>symbol
 
+
 //----------Memory
 // 1) Stack(primitive)    2) heap(Non-Primitive) 
-let flowerName = "Flower"
-let anothername = flowerName
+let bookName = "Positive Thinking"
+let anothername = bookName
+
+anothername = "Atomic Habit"
 console.log(anothername);           //>flower
+
+
+
+let userOne = {
+    email: "user@gmail.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "user2@gmail.com"
+console.log(userOne.email);
+console.log(userTwo.email);
