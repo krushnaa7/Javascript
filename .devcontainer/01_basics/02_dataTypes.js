@@ -5,9 +5,9 @@ console.log(3+3); //code readability should be high
 console.log("Happy")
 
 
-let name = "Hello"        //string datatype
-let age = 25              //number
-let isLoggedIn = false    //boolean datatype
+let name = "Hello"        
+let age = 25              
+let isLoggedIn = false   
 
 // Primitive datatypes
 // number:     2 to power 23 only a range

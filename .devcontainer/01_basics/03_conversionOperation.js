@@ -67,10 +67,10 @@ console.log(2**3);   //>>8
 console.log(2/2);    //>>1
 console.log(2%3);    //>>2
 
-let str1 = "have a"
+let str1 = "Have a"
 let str2 = " great day"
 let str3 = str1 + str2
-console.log(str3);         //>>have a great day
+console.log(str3);         //>>Have a great day
 
 console.log("1" + 2);            //>>12
 console.log(1 + "2");            //>>12

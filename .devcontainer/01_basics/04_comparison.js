@@ -21,3 +21,4 @@ console.log(undefined < 0);     //>false
 
 //Strict Check: === (stricly checks the value and its datatype)
 console.log("2" === 2);
+

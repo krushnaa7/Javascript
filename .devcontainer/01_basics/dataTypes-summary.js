@@ -45,7 +45,7 @@ console.log(typeof scoreValue);    //>number
 console.log(typeof myFunction);    //>function object
 console.log(typeof anotherId);     //>symbol
 
-//--------Memory
+//----------Memory
 // 1) Stack(primitive)    2) heap(Non-Primitive) 
 let flowerName = "Flower"
 let anothername = flowerName
