@@ -52,10 +52,10 @@ let bookName = "Positive Thinking"
 let anothername = bookName
 
 anothername = "Atomic Habit"
+console.log(bookName);  
 console.log(anothername);           //>flower
 
-
-
+  
 let userOne = {
     email: "user@gmail.com",
     upi: "user@ybl"
