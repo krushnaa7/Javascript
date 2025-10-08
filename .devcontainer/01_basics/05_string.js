@@ -3,13 +3,11 @@ const repoCount = 50
 
 // console.log(name + year  + "value");     //outdated
 
-//line 10 syntax is called as string interpolation
 //type 1 to  declare string
 console.log('Hello my name is ${name} and my repo count is ${repoCount}');
 
 //type 2 to  declare string
 const flowerName = new String('Hibiscus')
-//new:obj of js, string chya pudhch bracket mhanje constructor
 
 console.log(flowerName[0]); //access 0th key
 //>R
